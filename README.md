@@ -18,15 +18,16 @@ Mis Hobbies
 
 Tecnologias y Herramientas
 
-[HTML5] 
-[CSS3] 
-[JavaScript]
-[Flutter]
-[Python]
-[PHP]
-[MySQL] - Relationals
-[Git] - Version Control Github and Bitbuckets
-[VisualStudioCode]
+- [HTML5] 
+- [CSS3] 
+- [JavaScript]
+- [Flutter]
+- [Python]
+- [PHP]
+- [MySQL] 
+- [Git] 
+- [VisualStudioCode]
+
 <!---
 ozzymauricio75/ozzymauricio75 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
