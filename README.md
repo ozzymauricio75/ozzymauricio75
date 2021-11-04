@@ -13,8 +13,19 @@ Bienvenid@!
 ozzymauricio75/ozzymauricio75 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-My Hobbies
+Mis Hobbies
 - Aprender diferentes tecnologias o herramientas
 - Crear código y aplicaciones que ayuden a la productividad
 - Hacer Mountain Bike
 - Ver peliculas de los 80's y 90's
+
+Tecnologias y Herramientas
+[HTML5] 
+[CSS3] 
+[JavaScript]
+[Flutter]
+[Python]
+[PHP]
+[MySQL] - Relationals
+[Git] - Version Control Github and Bitbuckets
+[VisualStudioCode]
